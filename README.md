@@ -1,4 +1,4 @@
-### 👋 Welcome to my github page. You can call me Thor. 🔭 I’m currently AI engineer. 
+### 👋 Welcome to my github page. You can call me Thor. 🔭 I have been an AI engineer for about 2 years. I am currently learning about optimization and Graph algorithm.
 
 <!--
 **ThorPham/ThorPham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - JAVA, C++ (basic)
 ### 🤔 Interest Fields
 - Data structures and Algorithms 
-- Mathematics : Graph theory, Linear algebra, Calculus, Optimization
+- Mathematics : Graph theory, Graph algorithm, Linear algebra, Calculus, Optimization
 - Statistic : Bayesian statistics, Graphical Models. 
-- Computer vision : Object detection, GAN, OCR.
+- Computer vision : Image Processing, Object detection, GAN, OCR.
 - Natural language processing : Sequence to sequence, word embbeding.
 ### 💬 Tool and framework
 - Tensorflow , pytorch, keras, sklearn, opencv, numpy.
