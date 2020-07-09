@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - Data structures and Algorithms 
 - Mathematics : Graph theory, Graph algorithm, Linear algebra, Calculus, Optimization
 - Statistic : Bayesian statistics, Graphical Models. 
+- nformation theory
 - Computer vision : Image Processing, Object detection, GAN, OCR.
 - Natural language processing : Sequence to sequence, word embbeding.
 ### 💬 Tool and framework
