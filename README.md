@@ -18,11 +18,19 @@ Here are some ideas to get you started:
 - Python (main)
 - Javascript
 - JAVA, C++ (basic)
+### Interest Fields
+- Data structures and Algorithms 
+- Mathematics : Graph theory, Linear algebra, Calculus, Optimization
+- Statistic : Bayesian statistics, Graphical Models. 
+- Computer vision : Object detection, GAN, OCR.
+- Natural language processing : Sequence to sequence, word embbeding.
 ### Tool and framework
-- Tensorflow , pytorch,keras sklearn, opencv,numpy.
-- Git, Docker,SQL,Linux.
-### 
-
+- Tensorflow , pytorch, keras, sklearn, opencv, numpy.
+- Git, Docker,SQL, Linux.
+### Field 
+### PUBLICATIONS
+- Deep Learning Approach for Receipt Recognition (Accepted FDSE 2019)
+- License Plate Recognition base on Deep Neural Network (Processing)
 
 ### How to reach me
 - Facebook : https://www.facebook.com/profile.php?id=100005416098539
