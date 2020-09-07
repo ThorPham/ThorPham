@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 - Linkedin : https://www.linkedin.com/in/d%C5%A9ng-ph%E1%BA%A1m-abb956155/
 - Website : https://thorpham.github.io/blog/
 - Email : Dungphamvan0803@gmail.com
-- Skp
+- Skype :thorpham
