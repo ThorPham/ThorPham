@@ -1,4 +1,4 @@
-### 👋 Welcome to my github page. You can call me Thor. 🔭 I have been an AI engineer for about 2 years. I am currently learning about optimization and Graph algorithm.
+### 👋 Welcome to my github page. You can call me Thor. 🔭 I have been an AI engineer about 2 years. I am currently learning about optimization and Graph algorithm.
 
 <!--
 **ThorPham/ThorPham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
